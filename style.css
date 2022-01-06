@@ -48,6 +48,7 @@ body {
       font-family: 'Amatic SC', cursive;
       font-family: 'Baloo Bhaijaan 2', cursive;
       font-family: 'Poppins', sans-serif;
+      text-align: justify;
   }
  
   
@@ -120,6 +121,7 @@ body {
      font-family: 'Amatic SC', cursive;
 font-family: 'Baloo Bhaijaan 2', cursive;
 font-family: 'Poppins', sans-serif;
+text-align: justify;
 
  }
  .section3-para
@@ -128,6 +130,7 @@ font-family: 'Poppins', sans-serif;
     font-family: 'Baloo Bhaijaan 2', cursive;
     font-family: 'Poppins', sans-serif;
     padding-bottom: 20px;
+    text-align: justify;
  }
  #coding-img{
      width: 400px;
