@@ -26,14 +26,21 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
   }
+  
   .third-h1{
-    font-size: 40px;
+     padding-bottom: 10px;
+    font-size: 35px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: relative;
+    display: inline;
     
   }
  
   .h1-color {
     color: rgb(240, 21, 229);
+  }
+  .h1-color2 {
+    color: #689f38;
   }
   .para1{
       padding-top: 20px;
@@ -127,10 +134,23 @@ font-family: 'Poppins', sans-serif;
      height: 400px;
      margin-left: 105px;
  }
+ #unnamed-img{
+     width: 280px;
+     height: 450px;
+     margin-left: 105px;
+     border-radius: 20px;
+     box-shadow: 10px 10px 10px 10px grey ;
+ }
  #project-img{
      width: 400px;
      height: 400px;
      margin-right: 105px;
+ }
+ 
+ #data-img{
+     width: 100px;
+     height: 100px;
+   
  }
  coding-div{
    margin-left: 10px;
