@@ -157,18 +157,18 @@ font-family: 'Poppins', sans-serif;
    margin-right: 10px;
  }
  #sub-section2{
-     background-image: url("shape-1.png"),url("screenshort.png") ;
-     background-size: 220px, 115px;
-     background-repeat: no-repeat,no-repeat;
-     background-position: 8%, 4% 140%;
+     background-image: url("shape-1.png");
+     background-size: 220px;
+     background-repeat: no-repeat;
+     background-position: 8%;
     
  }
 
  #section2main{
-    background-image: url("screenshort.png") ;
-    background-size: 115px;
-    background-repeat: no-repeat;
-    background-position: 100% 57%;
+    background-image: url("screenshort.png"),url("screenshort.png"),url("shape-1.png") ;
+    background-size: 115px,115px,180px;
+    background-repeat: no-repeat,no-repeat,no-repeat;
+    background-position: 100% 27%, 4% 65%,97% 95%;
     padding-bottom: 30px;
 
  }
@@ -179,5 +179,13 @@ font-family: 'Poppins', sans-serif;
  .sub-section3-writing
  {
      padding-left: 140px;
+ }
+
+ #footer{
+     text-align: center;
+     background-color: black;
+     color: white;
+     height: 150px;
+     padding-top: 10px;
  }
 
