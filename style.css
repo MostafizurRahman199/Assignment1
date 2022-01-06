@@ -101,6 +101,7 @@ body {
     height: 400px;
     width: 350px;
     border-radius: 20px;
+  
    
 }
   #section2-div1{
@@ -122,6 +123,7 @@ body {
 font-family: 'Baloo Bhaijaan 2', cursive;
 font-family: 'Poppins', sans-serif;
 text-align: justify;
+padding-right: 15px;
 
  }
  .section3-para
