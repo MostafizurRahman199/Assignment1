@@ -1,0 +1,163 @@
+body {
+   
+    margin: 0;
+  }
+  
+#top-banner-writing
+{
+    margin-top: 35px;
+    margin-left: 25px;
+}
+
+  .top-banner{
+      margin-top: 50px;
+  }
+  .first-h1{
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-left: 5px solid;
+    border-image: linear-gradient(rgb(85, 54, 226),rgb(55, 1, 248));
+    border-image-slice: 1;
+    padding-left: 10px;
+    margin-bottom: 20px;
+  }
+  .second-h1{
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+  }
+  .third-h1{
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+  }
+ 
+  .h1-color {
+    color: rgb(240, 21, 229);
+  }
+  .para1{
+      padding-top: 20px;
+      margin-bottom: 30px;
+      font-family: 'Amatic SC', cursive;
+      font-family: 'Baloo Bhaijaan 2', cursive;
+      font-family: 'Poppins', sans-serif;
+  }
+ 
+  
+  .flexible-container {
+    display: flex;
+    margin-bottom: 110px;
+  }
+  .half-width {
+    width: 50%;
+    padding-left: 5%;
+  }
+  .half-width3 {
+    width: 50%;
+    margin-left: 120px;
+  }
+  
+  .half-width2 {
+    width: 30%;
+    padding-left: 5%;
+  }
+  
+  
+  .half-width img {
+    width: 80%;
+  }
+  .link-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(153, 30, 235), #171cac);
+    color: white;
+    margin-top: 10px;
+    padding: 12px 50px;
+    border-radius: 5px;
+   
+  }
+.section2-img{
+    width: 150px;
+    height: 150px;
+    padding-left: 13px;
+    padding-top: 10px;
+}
+
+.second-section
+{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 100px;
+}
+.section2-div{
+    margin: 13px;
+    height: 400px;
+    width: 350px;
+    border-radius: 20px;
+   
+}
+  #section2-div1{
+      background-color: antiquewhite;
+  }
+  #section2-div2{
+      background-color: #FFA07A;
+  }
+  #section2-div3{
+      background-color:#E6E6FA;
+  }
+
+  .section2-h2{
+      padding-left: 18px;
+  }
+ .section2-para{
+     padding-left: 18px;
+     font-family: 'Amatic SC', cursive;
+font-family: 'Baloo Bhaijaan 2', cursive;
+font-family: 'Poppins', sans-serif;
+
+ }
+ .section3-para
+ {
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Baloo Bhaijaan 2', cursive;
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 20px;
+ }
+ #coding-img{
+     width: 400px;
+     height: 400px;
+     margin-left: 105px;
+ }
+ #project-img{
+     width: 400px;
+     height: 400px;
+     margin-right: 105px;
+ }
+ coding-div{
+   margin-left: 10px;
+   margin-right: 10px;
+ }
+ #sub-section2{
+     background-image: url("shape-1.png"),url("screenshort.png") ;
+     background-size: 220px, 115px;
+     background-repeat: no-repeat,no-repeat;
+     background-position: 8%, 4% 140%;
+    
+ }
+
+ #section2main{
+    background-image: url("screenshort.png") ;
+    background-size: 115px;
+    background-repeat: no-repeat;
+    background-position: 100% 57%;
+    padding-bottom: 30px;
+
+ }
+ .sub-section2-writing
+ {
+     padding-left: 90px;
+ }
+ .sub-section3-writing
+ {
+     padding-left: 140px;
+ }
+
